@@ -1,0 +1,32 @@
+https://github.com/vuejs/cn.vuejs.org | vuejs/cn.vuejs.org: 🇨🇳 Chinese translation for vuejs.org
+https://github.com/nopSolutions/nopCommerce/issues?utf8=%E2%9C%93&q=microsoft.net.sdk.web | Issues · nopSolutions/nopCommerce
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=2&tn=baiduhome_pg&wd=markdown%20%E6%89%B9%E9%87%8F%E5%AF%BC%E5%87%BAhtml&rsv_spt=1&oq=markdown%2520%25E5%25AF%25BC%25E5%2587%25BAhtml&rsv_pq=ecc900c200036300&rsv_t=34eca4ZeyYWWm2zem3kblRlqHWmYJKTbQf0%2FLhk3xzlCaXs02Ol5eVpVBFoxrj8g0%2Fal&rqlang=cn&rsv_enter=1&inputT=3325&rsv_sug3=11&rsv_sug1=11&rsv_sug7=100&rsv_sug2=0&rsv_sug4=5002 | markdown 批量导出html_百度搜索
+https://www.baidu.com/s?wd=visual%20studio%20code%20output%20%E4%B9%B1%E7%A0%81&rsv_spt=1&rsv_iqid=0xe62b17eb00000501&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=21&rsv_sug1=10&rsv_sug7=100&rsv_t=88b292b1R%2F7n0690mRRmrjE%2FG6h6H%2Fy8F1XSpdRH%2BKTgADM424OEi0gTuqnzBBRmKOii&sug=visual%2520studio&rsv_n=1&rsv_sug2=0&inputT=10512&rsv_sug4=10513 | visual studio code output 乱码_百度搜索
+https://blog.csdn.net/qq_18809853/article/details/52080732 | 解决VS Code编译调试中文输出乱码 - qq_18809853的博客 - CSDN博客
+https://cn.bing.com/search?q=microsoft.net.sdk.web%20not%20found%20vs%20code&qs=n&form=QBRE&sp=-1&pq=microsoft.net.sdk.web%20not%20found%20v&sc=0-33&sk=&cvid=A33B208BF05F426DA40A2E777D3A6534 | microsoft.net.sdk.web not found vs code - 国际版 Bing
+https://github.com/OmniSharp/omnisharp-vscode/labels/.Net%20sdk%20not%20found | Issues · OmniSharp/omnisharp-vscode
+https://github.com/OmniSharp/omnisharp-vscode/issues/2876 | The SDK 'Microsoft.NET.Sdk.Web' specified could not be found · Issue #2876 · OmniSharp/omnisharp-vscode
+https://developercommunity.visualstudio.com/content/problem/93183/the-sdk-microsoftnetsdkweb-specified-could-not-be.html | The SDK 'Microsoft.NET.Sdk.Web' specified could not be found - Developer Community
+https://docs.microsoft.com/zh-cn/dotnet/core/tools/csproj#implicit-package-references | .NET Core 的 csproj 格式的新增内容 - .NET Core CLI | Microsoft Docs
+https://cn.bing.com/search?q=msbuild%20tools%20download&qs=n&form=QBRE&sp=-1&pq=msbuild%20tools%20download&sc=8-22&sk=&cvid=E94C9946D1DF4195B111C9D6940FD827 | msbuild tools download - 国际版 Bing
+https://stackoverflow.com/questions/25506178/getting-msbuild-exe-without-installing-visual-studio | Getting msbuild.exe without installing visual studio? - Stack Overflow
+https://visualstudio.microsoft.com/zh-hans/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16 | 感谢下载 Visual Studio 2017 - Visual Studio
+https://docs.microsoft.com/en-us/visualstudio/install/workload-component-id-vs-build-tools?view=vs-2019#net-core-build-tools | Visual Studio Build Tools workload and component IDs | Microsoft Docs
+https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2017 | MSBuild - Visual Studio | Microsoft Docs
+https://chocolatey.org/packages/visualstudio2017buildtools | Chocolatey Gallery | Visual Studio 2017 Build Tools 15.9.10.0
+https://blog.csdn.net/dj0379/article/details/44454021 | 微软开源Visual Studio构建工具MSBuild - Jingle的专栏 - CSDN博客
+https://blog.csdn.net/playermaker57/article/details/80190580 | 细说VS MSBuild 和 Framework 的区别 - 不忘初心 - CSDN博客
+https://www.cnblogs.com/savorboard/p/dotnetcore-msbuild-sdk.html | .NET Core 之 MSBuild 介绍 - Savorboard - 博客园
+https://www.cnblogs.com/shanyou/p/3452938.html | MSBuild的简单介绍与使用 - 张善友 - 博客园
+https://cn.bing.com/search?q=Microsoft.Build.NuGetSdkResolver.dll&qs=n&form=QBLHCN&sp=-1&pq=microsoft.build.nugetsdkresolver.dll&sc=1-36&sk=&cvid=60E142F876B74ACDB56D13B5E0978C20 | Microsoft.Build.NuGetSdkResolver.dll - 国际版 Bing
+https://github.com/Microsoft/msbuild/tree/master/src/MSBuild | msbuild/src/MSBuild at master · Microsoft/msbuild
+https://github.com/OmniSharp/omnisharp-roslyn/issues/1311 | Can't get OmniSharp working in VS Code: "Could not load SDK Resolver." · Issue #1311 · OmniSharp/omnisharp-roslyn
+https://github.com/OmniSharp/omnisharp-roslyn | OmniSharp/omnisharp-roslyn: OmniSharp based on roslyn workspaces
+https://github.com/OmniSharp/omnisharp-vscode/wiki/Desktop-.NET-Framework | Desktop .NET Framework · OmniSharp/omnisharp-vscode Wiki
+https://cn.vuejs.org/v2/guide/ | 介绍 — Vue.js
+https://github.com/vuejs/cn.vuejs.org/ | vuejs/cn.vuejs.org: 🇨🇳 Chinese translation for vuejs.org
+http://localhost:4000/v2/guide/ | 介绍 — Vue.js
+https://www.baidu.com/s?wd=cairo%20%E4%B8%8B%E8%BD%BD&rsv_spt=1&rsv_iqid=0xce89e2500005d1bb&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&oq=cairo&inputT=2737&rsv_t=9923gUAatpLjOytUth6oWrU2clbufuaN4gyRMkubVxc6qHuu%2FwLjZF9APy29S2WKArz5&rsv_pq=b46e5e400006c976&rsv_sug3=29&rsv_sug1=20&rsv_sug7=100&bs=cairo | cairo 下载_百度搜索
+https://cn.bing.com/search?q=cairo+windows+install&qs=AS&pq=cairo+windows&sk=AS2&sc=5-13&cvid=B78AA5201C014B4B9120D6342767926D&FORM=QBLH&sp=3 | cairo windows install - 国际版 Bing
+https://cairoshell.com/ | Cairo Desktop Environment
+https://github.com/cairoshell/cairoshell/releases | Releases · cairoshell/cairoshell
